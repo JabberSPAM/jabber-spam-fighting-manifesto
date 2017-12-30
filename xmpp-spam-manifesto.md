@@ -1,6 +1,6 @@
 # The Jabber Spam Fighting Manifesto
 
-*Version 0.2, 2017-12-30*
+*Version 0.3, 2017-12-30*
 
 The Jabber network (a federated set of thousands of servers with many
 tens or hundreds thousands of users) is under a continuous flood of spam
@@ -11,7 +11,9 @@ deliver those messages.
 We, as the operators of public XMPP servers, commit to the following
 *Server Policies* to fight spam on our servers, and we announce our intent
 to block incoming communication from public servers that distribute spam
-messages and do not adhere to the *Server Policies*.
+messages and do not adhere to the *Server Policies*. Furthermore, we
+will inform other *Public Server* operators and the general public of
+domains sending spam and not reacting to abuse reports.
 
 ## Server Policies
 
@@ -36,8 +38,6 @@ fight spam:
 * Throttle the traffic from local clients, especially unsolicited
   subscription requests and messages.
 
-* Inform other *Public Server* operators of domains sending spam and not
-  reacting to abuse reports.
 
 [XEP-0077]: https://xmpp.org/extensions/xep-0077.html
 [XEP-0157]: https://xmpp.org/extensions/xep-0157.html
