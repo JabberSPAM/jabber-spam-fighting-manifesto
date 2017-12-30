@@ -36,6 +36,9 @@ fight spam:
 * Throttle the traffic from local clients, especially unsolicited
   subscription requests and messages.
 
+* Inform other *Public Server* operators of domains sending spam and not
+  reacting to abuse reports.
+
 [XEP-0077]: https://xmpp.org/extensions/xep-0077.html
 [XEP-0157]: https://xmpp.org/extensions/xep-0157.html
 
