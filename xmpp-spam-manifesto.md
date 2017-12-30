@@ -9,19 +9,19 @@ mid-1990s, public (and often abandoned) XMPP servers are being abused to
 deliver those messages.
 
 We, as the operators of public XMPP servers, commit to the following
-Server Policies to fight spam on our servers, and we announce our intent
+*Server Policies* to fight spam on our servers, and we announce our intent
 to block incoming communication from public servers that distribute spam
-messages and do not adhere to the Server Policies.
+messages and do not adhere to the *Server Policies*.
 
 ## Server Policies
 
-A "Public Server" is an XMPP server that allows both the registration of
+A *Public Server* is an XMPP server that allows both the registration of
 accounts by third parties (either via [In Band Registration][XEP-0077]
 or by other means, like a web form), and federation to other XMPP
 servers, making it possible for its users to reach out to other XMPP
 domains.
 
-The operators of a Public Server shall perform the following actions to
+The operators of a *Public Server* shall perform the following actions to
 fight spam:
 
 * Implement [XEP-0157: Contact Addresses for XMPP Services][XEP-0157] and
@@ -42,10 +42,10 @@ fight spam:
 ## Schedule
 
 With our signature under this Manifesto, we assure that our servers are
-already following the above stated Server Policies.
+already following the above stated *Server Policies*.
 
 Starting with **July 1st, 2018**, we will start blocking incoming server
-connections from Public Servers not following the Server Policies above,
+connections from Public Servers not following the *Server Policies* above,
 if those are forwarding spam messages to our users. The blocking message
 will contain a reference to this Manifesto.
 
@@ -53,6 +53,6 @@ will contain a reference to this Manifesto.
 
 Signed,
 
-Georg Lukas, yax.im (https://yaxim.org/yax.im/)
+Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
 
 ...
