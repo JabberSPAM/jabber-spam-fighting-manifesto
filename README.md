@@ -59,3 +59,9 @@ Signed,
 Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
 
 ...
+
+*	*	*
+
+_If you run a public Jabber server and commit to the above Policies, please
+sign the manifesto by opening a PR with your name, server domain and a URL
+of the service description._
