@@ -59,6 +59,7 @@ Signed,
  * Thomas Camaran, **chatme.im** (https://chatme.im/)
  * Oxpa, Ermine, **jabber.ru** (https://jabber.ru/)
  * Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
+ * Tony Chez, **koderoot.net** (https://www.koderoot.net)
  * Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
  * Carlos Lopez, **suchat.org** (https://www.suchat.org)
  * Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
