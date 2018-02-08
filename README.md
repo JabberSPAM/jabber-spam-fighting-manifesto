@@ -56,18 +56,19 @@ will contain a reference to this Manifesto.
 
 Signed,
 
+Thomas Camaran, **chatme.im** (https://chatme.im/)
+
+Oxpa, Ermine, **jabber.ru** (https://jabber.ru/)
+
+Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
+
+Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
+
 Carlos Lopez, **suchat.org** (https://www.suchat.org)
 
 Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
 
-Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
-
-Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
-
-Thomas Camaran, **chatme.im** (https://chatme.im/)
-
-Oxpa, Ermine, **jabber.ru** (https://jabber.ru/)
-...
+... _(ordered by server name)_
 
 *	*	*
 
