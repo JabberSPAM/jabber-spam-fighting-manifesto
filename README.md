@@ -57,6 +57,7 @@ will contain a reference to this Manifesto.
 Signed,
 
 Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
+Carlos Lopez, **suchat.org** (https://www.suchat.org)
 
 ...
 
