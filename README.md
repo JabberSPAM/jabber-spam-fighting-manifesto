@@ -60,7 +60,7 @@ Carlos Lopez, **suchat.org** (https://www.suchat.org)
 Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
 Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
 Thomas Camaran, **chatme.im** (https://chatme.im/)
-
+Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
 ...
 
 *	*	*
