@@ -57,7 +57,7 @@ will contain a reference to this Manifesto.
 Signed,
 
 Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
-
+Thomas Camaran, **chatme.im** (https://chatme.im/)
 ...
 
 *	*	*
