@@ -31,7 +31,7 @@ fight spam:
 
 * Limit the number of new user registrations per IP address and hour.
 
-* Monitor or block registrations from IP addresses with bad reputation
+* Monitor and review registrations from IP addresses with bad reputation
   (open proxy servers, Tor exit nodes), or enforce additional checks on
   those users, like a CAPTCHA or a valid phone number.
 
