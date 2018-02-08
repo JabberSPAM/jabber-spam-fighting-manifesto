@@ -58,6 +58,8 @@ Signed,
 
 Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
 Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
+Thomas Camaran, **chatme.im** (https://chatme.im/)
+
 ...
 
 *	*	*
