@@ -57,7 +57,7 @@ will contain a reference to this Manifesto.
 Signed,
 
 Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
-
+Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
 ...
 
 *	*	*
