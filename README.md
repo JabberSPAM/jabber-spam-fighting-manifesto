@@ -66,6 +66,7 @@ Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
 
 Thomas Camaran, **chatme.im** (https://chatme.im/)
 
+Oxpa, Ermine, **jabber.ru** (https://jabber.ru/)
 ...
 
 *	*	*
