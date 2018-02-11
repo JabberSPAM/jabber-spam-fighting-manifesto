@@ -57,6 +57,7 @@ will contain a reference to this Manifesto.
 Signed,
 
  * Thomas Camaran, **chatme.im** (https://chatme.im/)
+ * Mathias Ertl, **jabber.at** (https://jabber.at)
  * Oxpa, Ermine, **jabber.ru** (https://jabber.ru/)
  * Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
  * Tony Chez, **koderoot.net** (https://www.koderoot.net)
