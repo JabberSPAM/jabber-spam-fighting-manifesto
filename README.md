@@ -26,7 +26,8 @@ domains.
 The operators of a *Public Server* shall perform the following actions to
 fight spam:
 
-* Implement [XEP-0157: Contact Addresses for XMPP Services][XEP-0157] and
+* Provide an abuse contact according to
+  [XEP-0157: Contact Addresses for XMPP Services][XEP-0157] and
   react to incoming abuse reports in a timely fashion.
 
 * Limit the number of new user registrations per IP address and hour.
