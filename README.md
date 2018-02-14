@@ -63,7 +63,7 @@ Signed,
  * Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
  * Tony Chez, **koderoot.net** (https://www.koderoot.net)
  * Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
- * Nico Wellpott **magicbroccoli.de** (https://magicbroccoli.de)
+ * Nico Wellpott **magicbroccoli.de** ([https://magicbroccoli.de](https://magicbroccoli.de/xmpp)
  * Carlos Lopez, **suchat.org** (https://www.suchat.org)
  * Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
  * ... _(ordered by server name)_
