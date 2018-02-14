@@ -61,6 +61,7 @@ Signed,
  * Mathias Ertl, **jabber.at** (https://jabber.at)
  * Oxpa, Ermine, **jabber.ru** (https://jabber.ru/)
  * Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
+ * Pinky, **jabbim.com** (https://jabbim.com)
  * Tony Chez, **koderoot.net** (https://www.koderoot.net)
  * Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
  * Carlos Lopez, **suchat.org** (https://www.suchat.org)
