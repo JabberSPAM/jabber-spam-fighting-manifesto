@@ -30,7 +30,7 @@ fight spam:
   [XEP-0157: Contact Addresses for XMPP Services][XEP-0157] and
   react to incoming abuse reports in a timely fashion.
 
-* Limit the number of new user registrations per IP address and hour.
+* Limit the number of new user registrations per IP address per hour.
 
 * Monitor and review registrations from IP addresses with bad reputation
   (open proxy servers, Tor exit nodes), or enforce additional checks on
