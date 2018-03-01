@@ -57,6 +57,7 @@ will contain a reference to this Manifesto.
 
 Signed,
 
+ * Wolf, **404.city** (https://404.city/)
  * Thomas Camaran, **chatme.im** (https://chatme.im/)
  * Mathias Ertl, **jabber.at** (https://jabber.at)
  * Emmanuel Gil Peyrot, Mathieu Pasquet, **jabber.fr** (https://jabberfr.org)
