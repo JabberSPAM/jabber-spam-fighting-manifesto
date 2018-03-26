@@ -11,7 +11,7 @@ deliver those messages.
 We, as the operators of public XMPP servers, commit to the following
 *Server Policies* to fight spam on our servers, and we announce our intent
 to block incoming communication from public servers that distribute spam
-messages and do not adhere to the *Server Policies*. Furthermore, we
+messages and do not react to abuse reports. Furthermore, we
 will inform other *Public Server* operators and the general public of
 domains sending spam and not reacting to abuse reports.
 
