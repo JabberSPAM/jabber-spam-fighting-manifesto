@@ -67,6 +67,7 @@ Signed,
  * Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
  * Nico Wellpott **magicbroccoli.de** (https://magicbroccoli.de/xmpp/)
  * Carlos Lopez, **suchat.org** (https://www.suchat.org)
+ * Tsukasa Hamano, **xmpp.jp** (https://www.xmpp.jp/)
  * Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
  * ... _(ordered by server name)_
 
