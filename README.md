@@ -1,6 +1,6 @@
 # The Jabber Spam Fighting Manifesto
 
-*Version 0.3, 2017-12-30*
+*Version 0.8, 2018-04-07*
 
 The Jabber network (a federated set of thousands of servers with many
 tens or hundreds thousands of users) is under a continuous flood of spam
