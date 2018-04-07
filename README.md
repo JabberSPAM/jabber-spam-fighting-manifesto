@@ -33,8 +33,8 @@ fight spam:
 * Limit the number of new user registrations per IP address per hour.
 
 * Monitor and review registrations from IP addresses with bad reputation
-  (open proxy servers, Tor exit nodes), or enforce additional checks on
-  those users, like a CAPTCHA or a valid phone number.
+  (open proxy servers, Tor exit nodes), OR enforce additional checks on
+  those users, for example by requesting a CAPTCHA or verifying the user's phone number.
 
 * Throttle the traffic from local clients, especially unsolicited
   subscription requests and messages.
