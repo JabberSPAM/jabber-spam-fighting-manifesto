@@ -1,7 +1,7 @@
 # Freedom and Anonymity on XMPP
 
 There were some concerns that the [Spam Fighting Manifesto](README.md) will
-imepde the Freedom of Speech, break XMPP for (legitimately) anonymous users
+impede the Freedom of Speech, break XMPP for (legitimately) anonymous users
 and is an unacceptable invasion into the users' privacy. Examples of concerns
 raised in public:
 
