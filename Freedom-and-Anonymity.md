@@ -51,8 +51,9 @@ have nobody but us to blame if they end up on Facebook Messenger, WhatsApp or
 Telegram.
 
 If we don't want the Jabber network to lose users even faster than it is
-already, we must take measures now. Centralized spam detection and rejection
-is such a measure, and it can be implemented with comparably low overhead.
+already, we must take measures now. Server-based spam detection and rejection
+is such a measure, and it can be implemented with comparably low overhead, and
+improved by cooperation between server operators.
 
 ### Blocking Servers
 
