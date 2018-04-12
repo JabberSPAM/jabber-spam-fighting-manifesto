@@ -46,14 +46,11 @@ through hoops to chat with a friend, and getting their important messages
 [silently dropped](https://github.com/processone/ejabberd/issues/2197).
 
 If we, the server operators, don't solve the spam problem for our non-nerd
-users, they will simply move away to a different chat platform. And we will
-have nobody but us to blame if they end up on Facebook Messenger, WhatsApp or
-Telegram.
+users, they will simply move away to a different (proprietary) chat platform.
 
-If we don't want the Jabber network to lose users even faster than it is
-already, we must take measures now. Server-based spam detection and rejection
-is such a measure, and it can be implemented with comparably low overhead, and
-improved by cooperation between server operators.
+Users don't want to be bothered by spam, and server-based spam detection and
+rejection can be implemented with comparably low overhead, and improved by
+cooperation between server operators.
 
 ### Blocking Servers
 
