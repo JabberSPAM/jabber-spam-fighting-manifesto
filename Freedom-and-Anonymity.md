@@ -14,7 +14,7 @@ address them in this separate post.
 
 ## Freedom of Speech and Censorship
 
-In the Manifesto of Freedom, it was implied that filtering spam and blocking
+In the Manifesto of Freedom, it is implied that filtering spam and blocking
 servers is a form of censorship, and that it violates the fundamental freedom
 of users.
 
@@ -141,7 +141,7 @@ However, there are multiple reasons why this requirement was made:
    them.
 
 2. Operating a server that's well suitable for anonymous users is much more
-   than just allowing users to come via Tor. You also need to have good data
+   than just allowing users to connect via Tor. You also need to have good data
    hygiene, encrypted storage and proper physical access control. Otherwise,
    the roster and communication meta-data of your Tor users might leak enough
    information to get them identified and decapitated.
