@@ -62,6 +62,7 @@ Signed,
  * Mathias Ertl, **jabber.at** (https://jabber.at)
  * Emmanuel Gil Peyrot, Mathieu Pasquet, **jabber.fr** (https://jabberfr.org)
  * Oxpa, Ermine, **jabber.ru** (https://jabber.ru/)
+ * Alexey, **jabberon.ru** (https://jabberon.ru/)
  * Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
  * Tony Chez, **koderoot.net** (https://www.koderoot.net)
  * Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
