@@ -13,7 +13,8 @@ We, as the operators of public XMPP servers, commit to the following
 to block incoming communication from public servers that distribute spam
 messages and do not react to abuse reports. Furthermore, we
 will inform other *Public Server* operators and the general public of
-domains sending spam and not reacting to abuse reports.
+domains sending spam and not reacting to abuse reports by keeping those
+servers on a [public blacklist](https://github.com/JabberSPAM/blacklist).
 
 ## Server Policies
 
@@ -53,7 +54,7 @@ connections from Public Servers not following the *Server Policies* above,
 if those are forwarding spam messages to our users. The blocking message
 will contain a reference to this Manifesto.
 
-## Committment
+## Commitment
 
 Signed,
 
