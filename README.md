@@ -67,6 +67,7 @@ Signed,
  * Stian B. Barmen **jabber.no** (https://www.jabber.no/)
  * Oxpa, Ermine, **jabber.ru** (https://jabber.ru/)
  * Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
+ * Sven Sperling, **jabbers.one** (https://jabbers.one)
  * Tony Chez, **koderoot.net** (https://www.koderoot.net)
  * Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
  * Nico Wellpott **magicbroccoli.de** (https://magicbroccoli.de/xmpp/)
