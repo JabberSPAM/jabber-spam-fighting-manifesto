@@ -58,7 +58,6 @@ will contain a reference to this Manifesto.
 
 Signed,
 
- * Wolf, **404.city** (https://404.city/)
  * Ave Ozkal, Luna Mendes, **a3.pm** (https://a3.pm/xmpp.html)
  * Stefan Giebel, **blabber.im** (https://blabber.im/)
  * Thomas Camaran, **chatme.im** (https://chatme.im/)
