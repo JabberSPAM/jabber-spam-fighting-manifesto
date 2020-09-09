@@ -70,6 +70,7 @@ Signed,
  * Tony Chez, **koderoot.net** (https://www.koderoot.net)
  * Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
  * Nico Wellpott **magicbroccoli.de** (https://magicbroccoli.de/xmpp/)
+ * Carlos Lopez, **parloteo.es** (https://parloteo.es)
  * Carlos Lopez, **suchat.org** (https://www.suchat.org)
  * Tsukasa Hamano, **xmpp.jp** (https://www.xmpp.jp/)
  * Georg Lukas, **yax.im** (https://yaxim.org/yax.im/)
