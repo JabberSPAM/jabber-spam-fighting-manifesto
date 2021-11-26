@@ -64,6 +64,7 @@ Signed,
  * Emmanuel Gil Peyrot, Mathieu Pasquet, **jabber.fr** (https://jabberfr.org)
  * Stian B. Barmen **jabber.no** (https://www.jabber.no/)
  * Oxpa, Ermine, **jabber.ru** (https://jabber.ru/)
+ * Alexey, **jabberon.ru** (https://jabberon.ru/)
  * Rafal Zawadzki, **jabberpl.org** (https://jabberpl.org)
  * Sven Sperling, **jabbers.one** (https://jabbers.one)
  * Marco Cirillo, **lightwitch.org** (https://lightwitch.org)
